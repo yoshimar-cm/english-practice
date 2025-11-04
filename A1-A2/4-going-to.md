@@ -2,6 +2,8 @@
 "Going to" se usa para hablar del futuro, especialmente para planes e intenciones que ya hemos decidido, o cuando vemos que algo va a pasar basándonos en evidencia presente.
 📌 CUÁNDO USAR "GOING TO":
 
+![Going to](https://test-english.com/staging11/wp-content/uploads/be-going-to_form-new-768x768.jpg "Going to - image example")
+
 ### Planes e intenciones decididas:
 
 I'm going to study medicine (Ya lo decidí)
